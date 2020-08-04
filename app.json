@@ -1,0 +1,12 @@
+{
+  "name": "TicTac",
+  "displayName": "TicTac",
+  "expo": {
+    "name": "TicTac",
+    "slug": "TicTac",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
